@@ -1,0 +1,15 @@
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\obj\Debug\Model_First_Entity_Framework.csprojAssemblyReference.cache
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\obj\Debug\Model_First_Entity_Framework.Form1.resources
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\obj\Debug\Model_First_Entity_Framework.Properties.Resources.resources
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\obj\Debug\Model_First_Entity_Framework.csproj.GenerateResource.cache
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\obj\Debug\Model_First_Entity_Framework.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\bin\Debug\Model_First_Entity_Framework.exe.config
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\bin\Debug\Model_First_Entity_Framework.exe
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\bin\Debug\Model_First_Entity_Framework.pdb
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\bin\Debug\EntityFramework.dll
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\bin\Debug\EntityFramework.xml
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\obj\Debug\Model_First_Entity_Framework.csproj.CopyComplete
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\obj\Debug\Model_First_Entity_Framework.exe
+C:\Users\HP PC\source\repos\Model_First_Entity_Framework\Model_First_Entity_Framework\obj\Debug\Model_First_Entity_Framework.pdb
